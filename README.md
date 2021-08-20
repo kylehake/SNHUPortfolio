@@ -1,6 +1,16 @@
 # SNHUPortfolio
 Portfolio of school assignments from my Computer Science B.S. @ SNHU
 
+Links to other Projects not in repository
+
+## CS465 -- Full Stack Development
+
+https://github.com/kylehake/cs465-fullstack
+
+## CS470 - Cloud Development with AWS
+
+http://kylehakesnhu.s3-website-us-east-1.amazonaws.com
+
 # SNHU
 
 ## CS210 -- Intro to Programming
