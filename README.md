@@ -3,7 +3,7 @@ Portfolio of school assignments from my Computer Science B.S. @ SNHU
 
 # SNHU
 
-## CS210 -- displaymenu
+## CS210 -- Intro to Programming
 
 ### Summarize the project and what problem it was solving.
 
@@ -29,7 +29,7 @@ This was the program that I used seperate source and header files apart from the
 
 Sticking to the syling guielines set forth in the project specs makes this program easy to maintain because a fellow programmer would be able to easy follow after me and update the file as needed.  The styling guides also help with readability and makes it easy to adapt and update as needed.
 
-## CS230 -- designtemplate
+## CS230 -- Operating Platforms
 
 ### Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
@@ -55,7 +55,7 @@ The client wanted to make sure that the game has the ability to have or more tea
 
 To design the software, I used the UML diagram as well as the specifications provided to develop the code. I think overall this was a pretty successful approached but I feel like there could have been some improvments made to the process that would have helped with the project in the long run. I think using psuedocode to build a framework from the UML is really helpful for me to understand where to go with the code. I also think that having a better understanding of operating systems will help when it comes to porting applications from one OS to another. Finally, I think that looking back through the different design templates will help with foundational knowledge of design.
 
-## CS250 -- finalproject7.1
+## CS250 -- Software Development Lifecycle
 
 ### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
@@ -69,7 +69,7 @@ When I going into a coding assignment or project, I look at that the goals or ob
 
 I think a good team member in software development should have quite a few different qualities that will help someone become a valuable asset to the team.  I think communcation and transparency are both key in software development because making sure questions or concerns are cleared up as timely as possible will only help the team further progress.  Transparency in understanding ones strengths and weaknesses can help develop a better skill set as well as keeps the team on the same page on in terms of who to go to if questions do arise.  Being skilled in coding is very important for the overall product but I think interpersonal skills like communcation are foundational in team developement and success.  I also think having the ability to take constructive feedback and apply them to future processes is also important for a good team member because being able take critiques from others and apply them helps build teama rapport as well as foster realtionships amongst team members.   
 
-## CS320 Contact/ContactService and Testing
+## CS320 Software Testing Automation
 
 ### How can I ensure that my code, program, or software is functional and secure?
 
